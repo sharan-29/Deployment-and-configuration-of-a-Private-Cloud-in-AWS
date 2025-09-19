@@ -56,55 +56,57 @@ demands.
 
 Snap Shot:
 
- 
+ <img width="956" height="566" alt="image" src="https://github.com/user-attachments/assets/c40afa2c-5bd0-42d9-a0b1-432ce40c95c3" />
+
 
 Snapshot 1: Create VPC
+
+<img width="971" height="494" alt="image" src="https://github.com/user-attachments/assets/7e6af829-0158-47aa-a273-8fbba11d11e1" />
+
  
 Snapshot 2: Configuring Subnets
- 
+
+ <img width="971" height="555" alt="image" src="https://github.com/user-attachments/assets/417268a8-0ecf-4276-a113-9e2930aadd20" />
+
 
 Snapshot 3: Configure Subnets
  
 
+<img width="1008" height="554" alt="image" src="https://github.com/user-attachments/assets/113e0981-48be-4b5e-b0b2-8f74dcca6e33" />
+
+
 Snapshot 4: Setting Internet gateway
+
+<img width="1041" height="629" alt="image" src="https://github.com/user-attachments/assets/380f6a93-71b3-49a7-8068-2831f1a4c290" />
 
  
 Snapshot 5: Setting Internet gateway
 
 
+<img width="1042" height="562" alt="image" src="https://github.com/user-attachments/assets/e6fd03bc-30f7-459a-91ce-da6f03097aef" />
 
  
 
 Snapshot 6: Setting Internet gateway
 
+<img width="995" height="565" alt="image" src="https://github.com/user-attachments/assets/4879b845-8ac9-4db6-9f1e-95aa3c67d429" />
+
  
 Snapshot 7: Creating route table
 
- 
+ <img width="993" height="636" alt="image" src="https://github.com/user-attachments/assets/93e8d092-0bcb-4e7f-9b3d-34069071d36e" />
+
 
 Snapshot 8: Configuring route table
 
+<img width="1002" height="552" alt="image" src="https://github.com/user-attachments/assets/2b4c762c-6559-4e9b-bb51-2652e6eec080" />
 
  
 Snapshot 9: Editing routes
 
+<img width="978" height="517" alt="image" src="https://github.com/user-attachments/assets/6b3c9e04-84e7-421a-a261-c93f58c1b0eb" />
+
  
-Snapshot 10: Creating route table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
